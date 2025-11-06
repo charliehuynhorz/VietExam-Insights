@@ -66,10 +66,6 @@ Dưới đây là mẫu trích từ `data/processed/demo_viet_national_exam_scor
 | 01000009 | HÀ NỘI | 7.5 | 8.5 | | 7.75 | 6.0 | | | | | | | | 29.75 |
 | 01000010 | HÀ NỘI | | 8.75 | | | | 8.25 | 9.0 | | | | | | 26.0 |
 
-## Phần dành cho ảnh Tableau (chèn ảnh vào `docs/` hoặc `assets/`)
-
-Hướng dẫn: lưu ảnh dashboard vào thư mục `docs/` hoặc `assets/` rồi cập nhật đường dẫn trong README.
-
 ### Biểu đồ 1 — Phân bố điểm trung bình các môn thi của cả nước
 
 ![Tableau - Phân bố điểm trung bình các môn thi của cả nước](docs/Sheet1.png)
