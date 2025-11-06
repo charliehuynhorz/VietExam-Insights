@@ -66,6 +66,7 @@ Dưới đây là mẫu trích từ `data/processed/demo_viet_national_exam_scor
 | 01000009 | HÀ NỘI | 7.5 | 8.5 | | 7.75 | 6.0 | | | | | | | | 29.75 |
 | 01000010 | HÀ NỘI | | 8.75 | | | | 8.25 | 9.0 | | | | | | 26.0 |
 
+## Trực quan hóa dữ liệu bằng Tableau 
 ### Biểu đồ 1 — Phân bố điểm trung bình các môn thi của cả nước
 
 ![Tableau - Phân bố điểm trung bình các môn thi của cả nước](docs/Sheet1.png)
@@ -78,5 +79,6 @@ Dưới đây là mẫu trích từ `data/processed/demo_viet_national_exam_scor
 
 ![Tableau - Top 10 các Tỉnh/Thành Phố có số thí sinh trên 8 điểm Toán nhiều nhất và ít nhất](docs/Sheet3.png)
 
+[Mọi người có thể xem trực quan hóa dữ liệu điểm thi THPT tại đây (Tableau Public)](https://public.tableau.com/views/MHnhThuytTrnh-GTNgnh/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
